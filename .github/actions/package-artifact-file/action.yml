@@ -34,3 +34,4 @@ runs:
       with:
         name: release-asset-${{ inputs.name }}
         path: ${{ inputs.name }}/*
+
